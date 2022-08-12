@@ -23,22 +23,20 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Ajjardin',
+    Svg: require('@site/static/img/ajjardin.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Site d'une entreprise de jardinage qui déchire sur le 06. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Stone-4-you',
+    Svg: require('@site/static/img/stone4you.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Site de e-commerce d'une artiste fabriquant des bijoux avec des pierrres.
       </>
     ),
   },
